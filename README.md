@@ -1,10 +1,10 @@
-<h1 align="center">Hola👋 soy <a href="https://github.com/CesargpDev" target="blank">Hector Aguilar</a></h1>
+<h1 align="center">Hello👋 I'm <a href="https://github.com/hhectormanuel" target="blank">Hector Aguilar</a></h1>
 <h3 align="center">Desarrollador Frontend desde México</h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,aws,react,nextjs,typescript,git,github,tailwindcss,postman,vscode,mongodb&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,elixir,aws,serverless,aws,linux,sql,nosql,git&perline=7" />
 </p>
 
 <br/>
