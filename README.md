@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,elixir,aws,linux,mongodb,django,git,postgresql,github&perline=3" />
+  <img src="https://skillicons.dev/icons?i=python,elixir,aws,linux,mongodb,django,git,postgresql,github&perline=9" />
 </p>
 
 <br/>
