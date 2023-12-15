@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋 I'm <a href="https://github.com/hhectormanuel" target="blank">Hector Aguilar</a></h1>
-<h3 align="center">Desarrollador Frontend desde México</h3>
+<h3 align="center">Backend developer</h3>
 
 <h3>I'm Hector, a 23-year-old backend developer. I enjoy coding in Python and Elixir, and my expertise extends to AWS development. I love diving into the intricacies of code and crafting creative solutions for the challenges I encounter. Originating from Mexico, I'm excited about the endless possibilities the programming world has in store for me!<h3>
 
