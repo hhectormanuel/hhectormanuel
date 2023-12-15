@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,elixir,aws,serverless,aws,linux,sql,nosql,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,elixir,aws,linux,sql,django,git,postgresql,phoenix&perline=7" />
 </p>
 
 <br/>
